@@ -65,6 +65,5 @@
 
 ## windows下载
 
-链接：https://pan.baidu.com/s/1XgEMOwAxNGvFjt46v1-Aow
-提取码：ywap
+https://github.com/2254324470/table-structure-generator/releases
 
